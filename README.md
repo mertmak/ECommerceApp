@@ -1,17 +1,31 @@
-# flutter_application_1
+# 🛒 ECommerceApp
+Mert Mak
 
-A new Flutter project.
+## 📖 Proje Hakkında
 
-## Getting Started
+Bu proje, kullanıcılara modern, hızlı ve akıcı bir alışveriş deneyimi sunmak amacıyla **Flutter** ile geliştirilmiş kapsamlı bir e-ticaret mobil uygulamasıdır. Hem iOS hem de Android platformlarında sorunsuz çalışacak şekilde tasarlanmıştır.
 
-This project is a starting point for a Flutter application.
+## ✨ Temel Özellikler
 
-A few resources to get you started if this is your first Flutter project:
+- **Ürün Kataloğu:** Kategorilere ayrılmış, detaylı ürün listeleme ve arama özellikleri.
+- **Sepet Yönetimi:** Ürün ekleme, çıkarma, miktar güncelleme ve toplam tutar hesaplama.
+- **Kullanıcı İşlemleri:** Güvenli giriş, kayıt olma ve profil yönetimi.
+- **Kullanıcı Dostu Arayüz:** Temiz, modern ve sezgisel bir UI/UX tasarımı.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 📸 Ekran Görüntüleri
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ScreenShots Klasöründedir.
+
+## 🛠️ Kullanılan Teknolojiler
+
+- **Mobil Geliştirme:** [Flutter](https://flutter.dev/), Dart
+- **Durum Yönetimi (State Management):** *(Buraya kullandığın paketi yazabilirsin: Provider, Bloc, Riverpod vb.)*
+- **Veritabanı / Backend:** *(Firebase, MySQL, .NET API vb. kullandıysan buraya belirtebilirsin)*
+
+## 🚀 Kurulum (Başlangıç)
+
+Projeyi kendi bilgisayarında çalıştırmak için aşağıdaki adımları izleyebilirsin:
+
+1. Bu depoyu klonlayın:
+   ```bash
+   git clone [https://github.com/mertmak/ECommerceApp.git](https://github.com/mertmak/ECommerceApp.git)
